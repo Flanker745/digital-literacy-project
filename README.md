@@ -1,15 +1,16 @@
 # 📘 Digital Literacy Project
 
 ## 👨‍🎓 Student Details
-- **Name:** Pradeep Nain  
-- **Branch:** CSE (AI/ML)  
-- **Year:** 1st Year  
-- **University:** VIT Bhopal University  
+- **Name:** Pradeep Nain
+- **GitHub:** https://github.com/Flanker745
+- **Branch:** CSE (AI/ML)
+- **Year:** 1st Year
+- **University:** VIT Bhopal University
 
 ---
 
 ## 📌 Project Overview
-This project focuses on developing essential **digital skills for everyday life**.  
+This project focuses on developing essential **digital skills for everyday life**.
 It covers multiple aspects of digital literacy including online safety, professional communication, coding practice, and awareness about cybercrime.
 
 The project is divided into **5 tasks**, each designed to build practical digital knowledge and real-world skills.
@@ -18,8 +19,9 @@ The project is divided into **5 tasks**, each designed to build practical digita
 
 ## 📂 Project Structure
 Digital-Literacy-Project/
-│
-├── report.docx
+├── README.md
+├── report/
+│   └── report.docx
 ├── task-1-presentation/
 ├── task-2-portfolio/
 ├── task-3-platforms/
@@ -84,36 +86,36 @@ Digital-Literacy-Project/
 ---
 
 ## 🎯 Learning Outcomes
-- Improved digital literacy skills  
-- Learned safe internet practices  
-- Developed professional communication skills  
-- Gained awareness about cybercrime  
-- Enhanced coding and problem-solving skills  
+- Improved digital literacy skills
+- Learned safe internet practices
+- Developed professional communication skills
+- Gained awareness about cybercrime
+- Enhanced coding and problem-solving skills
 
 ---
 
 ## 🔐 Cyber Safety Awareness
-- Never share OTP, PIN, or passwords  
-- Avoid suspicious links  
-- Verify before making online payments  
-- Use trusted platforms only  
+- Never share OTP, PIN, or passwords
+- Avoid suspicious links
+- Verify before making online payments
+- Use trusted platforms only
 
 ---
 
 ## 📎 References
-- https://www.canva.com  
-- https://www.github.com  
-- https://www.linkedin.com  
-- https://www.kaggle.com  
-- https://www.hackerrank.com  
-- https://forms.google.com  
-- https://cybercrime.gov.in  
+- https://www.canva.com
+- https://www.github.com
+- https://www.linkedin.com
+- https://www.kaggle.com
+- https://www.hackerrank.com 
+- https://forms.google.com
+- https://cybercrime.gov.in
 
 ---
 
 ## ✅ Status
-✔ All tasks completed successfully  
-✔ Project ready for submission  
+✔ All tasks completed successfully
+✔ Project ready for submission
 
 ---
 
